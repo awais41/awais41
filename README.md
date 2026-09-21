@@ -4,68 +4,98 @@
 
 <p align="center">
   <b>AI Engineer building practical, reliable AI systems.</b><br/>
-  Machine Learning · Deep Learning · LLMs · RAG · Data Pipelines · Automation
+  Machine Learning · Deep Learning · Generative AI · LLMs · RAG · Data Pipelines · Automation
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/awaisirshad41">
-    <img src="https://img.shields.io/badge/LinkedIn-Awais%20Irshad-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/awaisirshad41"><b>LinkedIn</b></a>
 </p>
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [InsightDoc-RAG](https://github.com/awais41/InsightDoc-RAG)
+RAG-based document Q&A with semantic retrieval and source-aware answers.
+
+`Python` `Sentence Transformers` `ChromaDB` `LLMs` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [LedgerIQ-AI](https://github.com/awais41/LedgerIQ-AI)
+Financial intelligence for transaction analysis, anomaly detection, forecasting, and AI-assisted summaries.
+
+`Python` `Pandas` `scikit-learn` `Isolation Forest` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Ecommerce-Price-Intelligence](https://github.com/awais41/Ecommerce-Price-Intelligence)
+Price tracking and ML pipeline with scraping, historical analysis, prediction, and dashboarding.
+
+`Python` `Selenium` `SQLite` `Random Forest` `Pytest`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Portfolio](https://github.com/awais41/Portfolio)
+Selected applied AI, ML, data, and automation projects in one portfolio repository.
+
+`AI Projects` `ML` `RAG` `Data` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 [Code-Alpha](https://github.com/awais41/Code-Alpha)
+Django e-commerce internship project covering authentication, cart, checkout, and admin workflows.
+
+`Python` `Django` `SQLite` `HTML` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [Full_Stack_Ai_Awais](https://github.com/awais41/Full_Stack_Ai_Awais)
+Python practice and foundational development work from my AI engineering learning path.
+
+`Python` `Programming` `Practice` `Foundations`
+
+</td>
+</tr>
+</table>
+
+## AI Engineering Domains
+
 <p align="center">
-  <a href="https://github.com/awais41/InsightDoc-RAG">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=awais41&repo=InsightDoc-RAG&theme=transparent&hide_border=false" alt="InsightDoc-RAG" />
-  </a>
-  <a href="https://github.com/awais41/LedgerIQ-AI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=awais41&repo=LedgerIQ-AI&theme=transparent&hide_border=false" alt="LedgerIQ-AI" />
-  </a>
+  <img src="./assets/ai-domains.svg" alt="AI engineering domains: ML, DL, GenAI, LLMs, RAG, vector search, agentic AI and automation" width="100%" />
+</p>
+
+## Engineering Stack
+
+<p align="center">
+  <img src="./assets/stack-map.svg" alt="Engineering stack map" width="100%" />
+</p>
+
+## Languages, Frameworks & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,postgres,mysql,mongodb,redis,git,github,vscode,linux&perline=14" alt="Languages, frameworks and databases" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/awais41/Ecommerce-Price-Intelligence">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=awais41&repo=Ecommerce-Price-Intelligence&theme=transparent&hide_border=false" alt="Ecommerce-Price-Intelligence" />
-  </a>
-  <a href="https://github.com/awais41/Portfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=awais41&repo=Portfolio&theme=transparent&hide_border=false" alt="Portfolio" />
-  </a>
+  <code>Machine Learning</code> · <code>Deep Learning</code> · <code>Generative AI</code> · <code>LLMs</code> · <code>RAG</code> · <code>LangChain</code> · <code>LangGraph</code><br/>
+  <code>ChromaDB</code> · <code>Vector Search</code> · <code>Embeddings</code> · <code>Streamlit</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Pytest</code>
 </p>
 
-<p align="center">
-  <a href="https://github.com/awais41/Code-Alpha">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=awais41&repo=Code-Alpha&theme=transparent&hide_border=false" alt="Code-Alpha" />
-  </a>
-  <a href="https://github.com/awais41/Full_Stack_Ai_Awais">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=awais41&repo=Full_Stack_Ai_Awais&theme=transparent&hide_border=false" alt="Full Stack AI Awais" />
-  </a>
-</p>
+## What I Focus On
 
-## GitHub Overview
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=awais41&show_icons=true&theme=transparent&hide_border=false&rank_icon=github&include_all_commits=true" alt="Awais Irshad GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais41&layout=compact&theme=transparent&hide_border=false&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=awais41&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
-
-## Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,postgres,mongodb,git,vscode&perline=10" alt="Languages and tools" />
-</p>
-
-<p align="center">
-  <code>LLMs</code> · <code>RAG</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>ChromaDB</code> · <code>Streamlit</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Pytest</code>
-</p>
-
-## Engineering Focus
-
-I work on applied AI systems that combine models, data, retrieval, APIs, and automation into usable products. My current focus includes **Machine Learning, Deep Learning, LLM applications, RAG, vector search, backend APIs, and reliable AI workflows**.
+Applied AI systems that combine **models, data, retrieval, APIs, databases, and automation** into usable products — with maintainable code, realistic evaluation, and clear documentation.
 
 <p align="center">
   <b>Open to Junior AI Engineer, Applied AI, and Machine Learning opportunities.</b>
