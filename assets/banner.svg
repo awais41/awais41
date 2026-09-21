@@ -1,0 +1,62 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#101B33"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="705" y1="172" x2="1128" y2="74" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#79C0FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 120) rotate(90) scale(150 330)">
+      <stop stop-color="#1F6FEB" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="22" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="21" stroke="#2D3B55" stroke-opacity="0.8"/>
+
+  <g opacity="0.11">
+    <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200" stroke="#8B949E"/>
+    <path d="M100 0V260M200 0V260M300 0V260M400 0V260M500 0V260M600 0V260M700 0V260M800 0V260M900 0V260M1000 0V260M1100 0V260" stroke="#8B949E"/>
+  </g>
+
+  <circle cx="912" cy="112" r="96" fill="#1F6FEB" fill-opacity="0.06" filter="url(#soft)"/>
+
+  <text x="64" y="72" fill="#79C0FF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">AI ENGINEER</text>
+  <text x="64" y="128" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Awais Irshad</text>
+  <text x="64" y="166" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="20">Machine Learning · Deep Learning · LLMs · RAG · Applied AI</text>
+  <text x="64" y="210" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="16">Building practical AI systems with clean engineering and honest evaluation.</text>
+
+  <g>
+    <path d="M718 177L770 145L820 157L870 106L922 124L973 88L1022 105L1070 74L1128 92" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#79C0FF">
+      <circle cx="718" cy="177" r="5"/>
+      <circle cx="770" cy="145" r="5"/>
+      <circle cx="820" cy="157" r="5"/>
+      <circle cx="870" cy="106" r="5"/>
+      <circle cx="922" cy="124" r="5"/>
+      <circle cx="973" cy="88" r="5"/>
+      <circle cx="1022" cy="105" r="5"/>
+      <circle cx="1070" cy="74" r="5"/>
+      <circle cx="1128" cy="92" r="5"/>
+    </g>
+  </g>
+
+  <g opacity="0.82">
+    <circle cx="865" cy="69" r="3" fill="#58A6FF"/>
+    <circle cx="896" cy="49" r="3" fill="#58A6FF"/>
+    <circle cx="931" cy="62" r="3" fill="#58A6FF"/>
+    <circle cx="952" cy="42" r="3" fill="#58A6FF"/>
+    <circle cx="985" cy="58" r="3" fill="#58A6FF"/>
+    <path d="M865 69L896 49L931 62L952 42L985 58M896 49L952 42M931 62L985 58" stroke="#58A6FF" stroke-opacity="0.45"/>
+  </g>
+
+  <text x="842" y="220" fill="#6E7681" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">BUILD  •  LEARN  •  AUTOMATE  •  IMPROVE</text>
+</svg>
